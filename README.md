@@ -6,4 +6,4 @@ This repository contains Software Design and Analysis course lectures and my ass
 4) Identifying classes from given scenario (given in lecture slides).
 5) Class diagram.
 6) Using design patterns like Strategy Design Pattern,  Builder Design Pattern with reasons to improve design of final system.
-7) Final Hospital-Management-System project in Php, html, CSS, javascript etc. 
+7) Final Hospital-Management-System project in Php, html, CSS, javascript, MySql etc. 
